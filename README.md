@@ -24,7 +24,7 @@
     * For
     * While/doWhile
     * Switch
-    * If
+    * If/else
   * Função
     * Arrow Function
     * Callback
